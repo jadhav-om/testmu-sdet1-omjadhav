@@ -1,0 +1,8 @@
+__pycache__/
+.venv/
+.env
+playwright/.cache/
+reports/*.md
+reports/*.json
+reports/llm/
+.pytest_cache/
